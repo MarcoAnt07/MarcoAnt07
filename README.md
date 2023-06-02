@@ -3,7 +3,7 @@
 #
 
 ### Estou atualmente cursando Técnico em Desenvolvimento de Sistemas no SENAI/CE - Unidade Jacarecanga.
-Estou em busca do meu primeiro estágio na aréa da Programação.
+### Estou em busca do meu primeiro estágio na aréa da Programação.
 
 #
 
