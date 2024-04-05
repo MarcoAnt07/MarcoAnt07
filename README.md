@@ -4,7 +4,6 @@
 
 ### Atualmente estou no 2° semestre da graduação em Análise e Desenvolvimento de Sistemas na Instituição Unifametro.
 ### Sou Técnico em Desenvolvimento de Sistemas com formação no SENAI/CE - Unidade Jacarecanga.
-### Estou em busca do meu primeiro estágio na aréa da Programação.
 
 #
 
