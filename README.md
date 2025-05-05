@@ -2,8 +2,9 @@
 
 #
 
-### Atualmente estou no 3° semestre da graduação em Análise e Desenvolvimento de Sistemas na Instituição Unifametro.
+### Atualmente estou no 4° semestre da graduação em Análise e Desenvolvimento de Sistemas na Instituição Unifametro.
 ### Sou Técnico em Desenvolvimento de Sistemas com formação no SENAI/CE - Unidade Jacarecanga.
+### Possuo a certificação AWS CLF-C02 - Cloud Practitioner
 
 #
 
